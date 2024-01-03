@@ -1,0 +1,2 @@
+release/adss2023_v01.jar filter=lfs diff=lfs merge=lfs -text
+target/classes/release/adss2023_v01.jar filter=lfs diff=lfs merge=lfs -text

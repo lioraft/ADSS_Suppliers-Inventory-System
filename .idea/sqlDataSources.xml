@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="c237abb2-0966-4286-a6af-0b957dd92d80" name="Inventory_Suppliers_Database.db [2] Mapping">
+      <data-sources db="d24597b2-525f-4e39-b908-537ecb08bcbf" ddl="40f1de69-2733-4bd1-b48b-cb0772b5122e" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+    <mapping uuid="cec3f07e-b9aa-4b1d-9240-55ef55f40e3b" name="identifier.sqlite Mapping">
+      <data-sources db="2033f7e9-7fd8-4b2e-8565-b258c71cf769" ddl="6577a111-a0de-472c-9592-75a384a33c9f" />
+    </mapping>
+  </component>
+</project>
