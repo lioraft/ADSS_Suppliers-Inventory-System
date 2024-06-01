@@ -14,3 +14,5 @@ ADSS_Group_O.iml
 ADSS-O.iml
 # Compiled class file
 target/
+# GitHub Copilot persisted chat sessions
+/copilot/chatSessions
